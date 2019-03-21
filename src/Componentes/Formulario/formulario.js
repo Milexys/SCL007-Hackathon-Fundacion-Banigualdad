@@ -8,12 +8,8 @@ class Formulario extends Component {
                 <h4 className="mt-4 mb-4">Crea tu perfil</h4>
                 <form>
                     <div className="profilePicture">
-                        <img src="http://www.stickpng.com/assets/images/585e4bf3cb11b227491c339a.png" id="profilePicture" alt="Imagen de Perfil" />
-                        <a href="#">
-                            <i className="material-icons">
-                                add_circle_outline
-                            </i>
-                        </a>
+                        <img src="http://www.stickpng.com/assets/images/585e4bf3cb11b227491c339a.png" alt="profilePicture" />
+
                     </div>
                     <div className="form-group row">
                         <label  className="col-md-3 col-form-label text-left">¿Cuál es su nombre?</label>
