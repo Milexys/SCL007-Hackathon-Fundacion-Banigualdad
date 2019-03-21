@@ -51,7 +51,7 @@ class Welcome extends Component {
                 </div>
 
                 <div className="row center">
-                    <h4><Link to="/login" className="btn btn-outline-primary">Vengo a conocer</Link></h4>
+                    <h4><Link to="/catalogo" className="btn btn-outline-primary">Vengo a conocer</Link></h4>
                 </div>
             </div>
         )
