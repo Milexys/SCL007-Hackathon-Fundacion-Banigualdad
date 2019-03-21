@@ -21,8 +21,8 @@ class Welcome extends Component {
                 {this.state.isSignedIn ? <Link to="/navbar"></Link> : console.log('not logged in')}
 
                 <div className="component">
-                    <div className="row"> 
-                        <image src="https://raw.githubusercontent.com/VeronicaManchola/SCL007-Hackathon-Fundacion-Banigualdad/master/src/Componentes/Imagenes/logo_banigualdad.jpg" />
+                    <div className="row center"> 
+                        <img src="https://raw.githubusercontent.com/VeronicaManchola/SCL007-Hackathon-Fundacion-Banigualdad/master/src/Componentes/Imagenes/logo_banigualdad.jpg" />
                     </div>
                 </div>
 
